@@ -8,7 +8,7 @@ Investigating the Influence of Various Receptor Organizations on Filamentous Inf
 
 ## Poster
 
-![Presentation Poster]("./poster/ID186_Poster.jpg")
+![Presentation Poster](poster/ID186_Poster.jpg)
 
 ## Bibliography:
 
