@@ -6,6 +6,10 @@ This is the repository for the University of British Columbia Undergraduate Rese
 
 Investigating the Influence of Various Receptor Organizations on Filamentous Influenza A Motility Under the Presence of Antibodies
 
+## Poster
+
+![Presentation Poster]("./poster/ID186_Poster.jpg")
+
 ## Bibliography:
 
 [1] M. D. Vahey and D. A. Fletcher, “Influenza A virus surface proteins are organized to help penetrate host mucus,” eLife, vol. 8, p. e43764, May 2019, doi: 10.7554/eLife.43764.
