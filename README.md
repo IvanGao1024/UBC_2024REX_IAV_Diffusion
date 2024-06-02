@@ -2,9 +2,13 @@
 
 This is the repository for the University of British Columbia Undergraduate Research Experience Program Math Bio Group 2023-11 to 2024-03, consisting of Yuan Gao and Marusia Shevchuk under the supervision of Liam Yih. The code is developed in Julia, and the mathematical parameters are derived from Vahey and Fletcher's paper [1].
 
-## Research question: 
+## Research question:
 
 Investigating the Influence of Various Receptor Organizations on Filamentous Influenza A Motility Under the Presence of Antibodies
+
+## Abstract
+
+![Presentation Poster](outcome/Abstract.jpg)
 
 ## Poster
 
